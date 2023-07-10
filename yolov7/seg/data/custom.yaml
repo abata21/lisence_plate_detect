@@ -1,0 +1,17 @@
+train: "C:/Users/abc/Desktop/dataset/0313_dataset/images/train"
+test: "C:/Users/abc/Desktop/dataset/0313_dataset/images/test"
+val: "C:/Users/abc/Desktop/yolov7/yolov7-u7/seg/data/images/val"
+
+# number of classes
+nc: 8
+
+# class names
+names:
+  0: orange_line2
+  1: green_line2_new
+  2: yellow_line1
+  3: yellow_line2
+  4: white_line1
+  5: green_line2_no_word
+  6: green_line2_top_word
+  7: truck

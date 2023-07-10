@@ -1,0 +1,44 @@
+# Usage: pip install -r requirements.txt
+# yolo
+numpy
+scikit-build
+cmake
+matplotlib
+#opencv-python==4.1.2.30
+#opencv-contrib-python-headless
+opencv-python-headless
+Pillow
+PyYAML
+requests
+
+# Check gpu version, check dockerfile
+#torch
+#torchvision
+
+tqdm
+protobuf
+tensorboard
+pandas
+seaborn
+ipython  # interactive notebook
+psutil  # system utilization
+thop>  # FLOPs computation
+
+# Strong SORT
+easydict
+
+# torchreid
+Cython
+h5py
+six
+tb-nightly
+future
+yacs
+gdown
+flake8
+yapf
+isort==4.3.21
+imageio
+
+# easyocr lib
+easyocr
